@@ -1,4 +1,4 @@
-getInchiKey<-<-function(getCID)
+getInchiKey<-function(getCID)
 {
   #################################
   url<-"http://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/"
